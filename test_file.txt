@@ -1,6 +1,13 @@
 Hello - this is the test file:  please enter your name below:
 
 Hendrik
+<<<<<<< HEAD
 
 
 sadfljaklsdfjkl;sjdfkljdsalkfjlksad;jf
+=======
+Americo
+sdaflkjdsalkfjsdklaf
+sadlkfjsadlkjfsda
+asdlkf;jsaldk;jfsad
+l;ajsdflkjsdaf
